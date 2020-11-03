@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9351" started-at="2020-11-03T12:10:38 GMT" finished-at="2020-11-03T12:10:48 GMT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9351" started-at="2020-11-03T12:10:38 GMT" finished-at="2020-11-03T12:10:48 GMT">
+      <class name="registrationCheck.CheckRegistrationDetails">
+        <test-method status="PASS" signature="getdata()[pri:0, instance:registrationCheck.CheckRegistrationDetails@4f063c0a]" name="getdata" is-config="true" duration-ms="4539" started-at="2020-11-03T12:10:38 GMT" finished-at="2020-11-03T12:10:43 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method status="PASS" signature="CheckRegDetails()[pri:0, instance:registrationCheck.CheckRegistrationDetails@4f063c0a]" name="CheckRegDetails" duration-ms="3998" started-at="2020-11-03T12:10:43 GMT" finished-at="2020-11-03T12:10:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckRegDetails -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:registrationCheck.CheckRegistrationDetails@4f063c0a]" name="teardown" is-config="true" duration-ms="796" started-at="2020-11-03T12:10:47 GMT" finished-at="2020-11-03T12:10:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- registrationCheck.CheckRegistrationDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
